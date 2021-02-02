@@ -1,0 +1,83 @@
+[
+    {
+        "accounts": [
+            {
+                "accountId": "act-51e690ba",
+                "name": "mlresearch"
+            },
+            {
+                "accountId": "act-6104ce1e",
+                "name": "luizalabs"
+            },
+            {
+                "accountId": "act-1db8aaf2",
+                "name": "magalu-backoffice"
+            },
+            {
+                "accountId": "act-d6e34101",
+                "name": "magazineluiza"
+            },
+            {
+                "accountId": "act-22d8548f",
+                "name": "core-services"
+            },
+            {
+                "accountId": "act-acee53ce",
+                "name": "gcp"
+            },
+            {
+                "accountId": "act-0fa376f4",
+                "name": "maga-homolog"
+            },
+            {
+                "accountId": "act-4426fb03",
+                "name": "maga-bigdata"
+            },
+            {
+                "accountId": "act-da3a310e",
+                "name": "magalu-stores-project"
+            },
+            {
+                "accountId": "act-13c891e5",
+                "name": "magalu-digital-project"
+            },
+            {
+                "accountId": "act-d507a8a4",
+                "name": "magalu-infra-project"
+            },
+            {
+                "accountId": "act-9440f3f0",
+                "name": "fictivekin-samsung"
+            }
+        ],
+        "client_id": "5nS35NgQQ1MM7GYY",
+        "client_secret": "OUpqiHfeYA2cjmTlz54kVnOmDD9M2qJG",
+        "company_name": "Luiza Labs"
+    },
+    {
+        "accounts": [
+            {
+                "accountId": "act-076f543d",
+                "name": "Kabum Comercio Eletronico S/A"
+            }
+        ],
+        "client_id": "A3Zl7tBm1V53EKl6",
+        "client_secret": "F8b2QOqi7hcmqsCqvD6SBNUpBAgMXg6R",
+        "company_name": "Kabum"
+    },
+    {
+        "accounts": [
+            {
+                "accountId": "act-1b188388",
+                "name": "Zapay"
+            },
+            {
+                "accountId": "act-a08f5d1b",
+                "name": "Rancher"
+            }
+        ],
+        "client_id": "ALwEObr5rfJ99z37",
+        "client_secret": "jaCQ9kqD4KAPdii2ajaf4IjxdqqPfSlr",
+        "company_name": "Zapay"
+      }
+]
