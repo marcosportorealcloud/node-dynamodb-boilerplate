@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "nodemon src/app.js",
+    "start": "nodemon -r dotenv/config src/app.js",
     "create-clients-db": "cd src && cd dynamodb && node createClientsTable.js && cd ..",
     "create-users-db": "cd src && cd dynamodb && node createUsersTable.js && cd ..",
     "delete-clients-db": "cd src && cd dynamodb && node deleteCarsTable.js && cd ..",
